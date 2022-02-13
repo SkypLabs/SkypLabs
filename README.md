@@ -11,5 +11,7 @@ about IT-related topics and **hunt for bugs**.
 
 :newspaper: [Personal Blog](https://blog.skyplabs.net/) |
 :bird: [Twitter](https://twitter.com/SkypLabs) |
+:rocket: [Malt](https://en.malt.fr/profile/paulemmanuelraoul) |
+:busts_in_silhouette: [LinkedIn](https://www.linkedin.com/in/peraoul) |
 :bug: [Open Bug Bounty](https://www.openbugbounty.org/researchers/SkypLabs/) |
 :key: [Keybase](https://keybase.io/skyplabs)
